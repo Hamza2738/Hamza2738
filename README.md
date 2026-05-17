@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Hamza2738/Hamza2738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hamza Najjar from Tunisia 🇹🇳  
+Computer Engineering Student at ESPRIT.
 
-Here are some ideas to get you started:
+I’m passionate about software development, web technologies, networking and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technologies & Tools:
+- Symfony
+- Angular
+- Flask
+- PHP
+- Python
+- C / C++
+- MySQL
+- Linux
+- Git & GitHub
+
+🚀 Currently working on academic and personal projects in:
+- Full Stack Web Development
+- Networking & Security
+- Software Engineering
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/najjar-hamza-30a
+- GitHub: https://github.com/Hamza2738
+
+Thanks for visiting my profile 😊
