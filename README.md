@@ -23,6 +23,7 @@ I’m passionate about software development, web technologies, networking and cy
 
 📫 Connect with me:
 - LinkedIn: https://www.linkedin.com/in/najjar-hamza-30a
-- GitHub: https://github.com/Hamza2738
+- microsoft: https://learn.microsoft.com/en-us/users/hamzanajjar-273/
+- Nvidia: https://www.nvidia.com/en-us/account/najjarhamza/
 
 Thanks for visiting my profile 😊
