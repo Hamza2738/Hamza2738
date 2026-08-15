@@ -8,7 +8,7 @@ I’m passionate about **software development**, **web technologies**, **network
 ---
 
 ## 💻 Technologies & Tools
-
+- Spring Boot
 - Symfony
 - Angular
 - Flask
@@ -16,6 +16,7 @@ I’m passionate about **software development**, **web technologies**, **network
 - Python
 - C / C++
 - MySQL
+- Docker
 - Linux
 - Git & GitHub
 
