@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm **Hamza Najjar** from Tunisia 🇹🇳  
-🎓 Computer Engineering Student at **ESPRIT**
+🎓 Fintech Engineering Student at **ESPRIT**
 
 I’m passionate about **software development**, **web technologies**, **networking**, and **cybersecurity**.
 
