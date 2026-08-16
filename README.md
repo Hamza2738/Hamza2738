@@ -1,8 +1,14 @@
 # 👋 Hi, I'm **Hamza Najjar**
 
-### 🎓 FinTech Engineering Student @ ESPRIT | 💻 Full-Stack Developer | 🔐 Cybersecurity Enthusiast
+### 🎓 FinTech Engineering Student @ ESPRIT
 
-<p align="left">
+### 💻 Full-Stack Developer • 🌐 Network & Security • ☁️ DevOps • 🤖 AI
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=FinTech+Engineering+Student;Full-Stack+Developer;Software+Engineering+Enthusiast;Network+%26+Cybersecurity+Enthusiast;Building+Secure+%26+Scalable+Solutions" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hamza2738&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/Hamza2738?label=Followers&style=flat" />
   <img src="https://img.shields.io/github/stars/Hamza2738?label=Stars&style=flat" />
@@ -10,21 +16,23 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 **FinTech Engineering Student** at **ESPRIT, Tunisia**
+🎓 **FinTech Engineering Student** at **ESPRIT – École Supérieure Privée d'Ingénierie et de Technologies**
 
-💻 Passionate about **Full-Stack Development, Software Engineering & Cybersecurity**
+💻 Passionate about **Software Engineering, Full-Stack Development and Digital Solutions**
 
-🌐 Interested in building **secure, scalable and modern applications**
+🔐 Interested in **Cybersecurity, Network Engineering and Secure Application Development**
 
-🧠 Currently improving my skills in **Backend Development, Cloud, DevOps & Networking**
+☁️ Exploring **Cloud Computing, DevOps, Docker and Infrastructure**
 
-🔧 I enjoy transforming ideas into **functional and professional software solutions**.
+🤖 Interested in integrating **Artificial Intelligence and APIs** into modern applications
+
+🏗️ I enjoy designing complete solutions combining **Frontend, Backend, Database, APIs, Networking and Security**.
 
 ---
 
-# 🛠️ Technology Stack
+# 🧰 Tech Stack
 
 ## 💻 Programming Languages
 
@@ -42,11 +50,21 @@
 
 ---
 
-## ⚙️ Backend Development
+## ⚙️ Backend & Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,symfony,flask,django,laravel" />
 </p>
+
+---
+
+## 🖥️ Desktop & Application Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,qt,dotnet" />
+</p>
+
+**JavaFX • Embedded C • MikroC • FlutterFlow**
 
 ---
 
@@ -58,73 +76,265 @@
 
 ---
 
-## ☁️ DevOps • Cloud • Infrastructure
+## ☁️ DevOps & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,gitlab,jenkins,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,gitlab,jenkins" />
 </p>
+
+---
+
+## 🌐 Networking & Security
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,cisco" />
+</p>
+
+**Networking:**
+`TCP/IP` • `VLSM` • `OSPF` • `DHCP` • `NAT/PAT` • `GRE` • `IPsec VPN`
+
+**Security & Infrastructure:**
+`Network Security` • `VPN` • `Linux Server` • `Apache` • `Monitoring` • `Cybersecurity`
+
+**Tools:**
+`GNS3` • `Cisco` • `Prometheus` • `Grafana`
 
 ---
 
 ## 🔌 APIs & Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,swagger,vscode,idea,eclipse,maven" />
+  <img src="https://skillicons.dev/icons?i=postman,swagger,maven,vscode,idea,eclipse" />
 </p>
 
----
-
-# 🚀 What I'm Working On
-
-<div align="center">
-
-| Area                           | Focus                             |
-| ------------------------------ | --------------------------------- |
-| 💻 **Full-Stack Development**  | Modern Web Applications           |
-| ⚙️ **Backend Engineering**     | Spring Boot • Symfony • Node.js   |
-| 🌐 **Frontend Engineering**    | Angular • React                   |
-| 🔐 **Cybersecurity**           | Network & Application Security    |
-| ☁️ **Cloud & DevOps**          | Docker • Kubernetes • CI/CD       |
-| 🤖 **Artificial Intelligence** | AI-powered Applications           |
-| 🌍 **Networking**              | Network Infrastructure & Security |
-
-</div>
+**APIs & Services:**
+`REST APIs` • `AI APIs` • `Mailer APIs` • `QR Code APIs` • `Calendar APIs` • `CV Analysis`
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🏦 Banking Access Management Platform
+## 🏦 Banking Access Management Platform
 
-> Secure internal platform for managing access requests to banking resources.
+**Internal banking platform developed during my internship at Banque Tuniso-Koweïtienne (BTK).**
 
-**Technologies**
+A secure digital platform designed to manage access requests to banking resources and connect different user profiles.
 
-`Spring Boot` `HTML` `CSS` `JavaScript` `MySQL` `Docker`
+### 🔧 Technologies
 
-**Integrations**
+`Spring Boot` • `HTML` • `CSS` • `JavaScript` • `MySQL` • `Docker`
 
-🔐 IP-based Access Control
-📍 Interactive Maps
-🤖 Face Recognition
-📧 Automatic Email Notifications
+### 🔐 Main Features
+
+* 🔑 Secure access management
+* 🌐 IP-based access control
+* 🏦 Multi-agency architecture
+* 👥 Employee / Agency Manager / Administrator profiles
+* 📍 Interactive geographical mapping
+* 🤖 Face recognition integration
+* 📧 Automatic email notifications
+* 📊 Traceability and access management
 
 ---
 
-### 🏛️ Ohara Archives
+## 🤝 SkillSwap
 
-> Web platform dedicated to the management of museum visits and reservations.
+**Collaborative Web & Desktop Application for Skill Exchange**
 
-**Technologies**
+SkillSwap connects users such as freelancers, entrepreneurs and administrators in a collaborative environment.
 
-`PHP` `MySQL` `HTML` `CSS` `JavaScript` `MVC`
+### 🔧 Architecture
 
-🔗 **Repository:**
+```text
+Web Application     → Symfony
+Desktop Application → JavaFX
+Database            → MySQL
+```
+
+### 🚀 Features
+
+* 🔐 Authentication & authorization
+* 👤 Profile management
+* 🧠 Skills management
+* 💼 Offers & applications
+* 💬 Messaging
+* 📅 Appointments
+* ❤️ Likes & comments
+* 📧 Automatic email system
+* 🤖 AI assistant
+* 📄 CV analysis
+* 🔳 QR Code generation
+* 📆 Calendar integration
+
+### 🧪 Software Quality
+
+* PHPUnit
+* Doctrine
+* PHPStan Level 8
+* Unit Testing
+* Code Refactoring
+
+---
+
+## 🏛️ Ohara Archives
+
+**Museum Management & Reservation Web Application**
+
+A web platform dedicated to the management of museum content, visits and reservations.
+
+### 🔧 Technologies
+
+`PHP` • `MySQL` • `HTML` • `CSS` • `JavaScript` • `MVC`
+
+### 📌 Main Features
+
+* 🏛️ Museum content management
+* 🎟️ Visit reservation
+* 👤 User management
+* 📅 Reservation management
+* 🛠️ Admin Back Office
+* 🔄 CRUD operations
+* 🔐 Secure database interaction
+
+### 🔗 Repository
+
 https://github.com/Hamza2738/Ohara_Archives
 
 ---
 
-# 📊 GitHub Analytics
+## 🏟️ ImmersiTech
+
+**3D Virtual Museum – Sport, Youth & Sustainable Development**
+
+A 3D virtual museum exploring the relationship between **sport, health, youth and sustainable development in Tunisia**.
+
+### 🌍 Main Themes
+
+* ⚽ Access to football fields
+* 🏟️ Sports infrastructure
+* 🏊 Modern sports facilities
+* 🌱 Sustainable Development Goals
+* ❤️ Health & Well-being
+* 🤝 Social inclusion
+* 🏙️ Sustainable cities
+
+---
+
+## 🏋️ TEKFIT
+
+**Embedded Systems – Smart Gym**
+
+A smart gym simulation based on a **PIC16F877 microcontroller**.
+
+### 🔧 Technologies
+
+`PIC16F877` • `MikroC` • `Embedded C` • `Sensors` • `LCD` • `Actuators`
+
+### ⚡ Features
+
+* 🌡️ Temperature monitoring
+* 📺 LCD information display
+* 💨 Automatic fan control
+* 💡 LED control
+* 🤖 Autonomous decision-making
+* ⚡ Energy optimization
+
+---
+
+## 📱 SportFlow
+
+**Smart Gym Management Mobile Application**
+
+A mobile application designed to digitalize gym management.
+
+### 🔧 Technologies
+
+`FlutterFlow` • `CRUD` • `Geolocation` • `Notifications` • `Dashboard`
+
+### 🚀 Features
+
+* 👥 Member management
+* 💳 Subscription management
+* 🏋️ Training programs
+* 🥗 Nutrition management
+* 📅 Events
+* 📍 Geolocation
+* 🔔 Smart notifications
+* 📊 Management dashboard
+* 💬 Automated messaging
+
+---
+
+## 🌐 TechSolutions SARL
+
+**Enterprise Network & Security Infrastructure**
+
+A complete enterprise network architecture designed to simulate a real-world corporate infrastructure.
+
+### 🔧 Technologies & Concepts
+
+`GNS3` • `Cisco` • `Linux` • `OSPF` • `VLSM` • `DHCP` • `NAT/PAT`
+
+`GRE` • `IPsec VPN` • `Apache` • `PHP` • `MySQL` • `NFS`
+
+`Prometheus` • `Grafana`
+
+### 🔐 Infrastructure
+
+```text
+                    INTERNET
+                       │
+                 ┌─────▼─────┐
+                 │  Firewall  │
+                 └─────┬─────┘
+                       │
+                 ┌─────▼─────┐
+                 │  Backbone  │
+                 │   OSPF     │
+                 └─────┬─────┘
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+      Users         Servers        Remote Sites
+        │              │              │
+     VLANs       Web / DB / NFS    GRE + IPsec
+```
+
+---
+
+# 🎯 Currently Working On
+
+```text
+┌──────────────────────────────────────────────┐
+│              CURRENT FOCUS                   │
+├──────────────────────────────────────────────┤
+│ 💻 Full-Stack Web Development                │
+│ ⚙️ Backend Engineering                       │
+│ 🔐 Network & Cybersecurity                   │
+│ ☁️ Cloud & DevOps                            │
+│ 🤖 Artificial Intelligence                   │
+│ 🏦 FinTech & Secure Digital Solutions       │
+│ 🧪 Software Testing & Quality                │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 🧠 Areas of Interest
+
+<p align="center">
+
+`FinTech` • `Software Engineering` • `Full-Stack Development`
+
+`Cybersecurity` • `Networking` • `Cloud Computing`
+
+`DevOps` • `Artificial Intelligence` • `System Administration`
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hamza2738&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -141,46 +351,54 @@ https://github.com/Hamza2738/Ohara_Archives
 
 ---
 
-# 🧠 Areas of Interest
-
-<p align="center">
-
-`Software Engineering` • `Cybersecurity` • `FinTech` • `Artificial Intelligence`
-
-`Cloud Computing` • `DevOps` • `Networking` • `Backend Development`
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
 
+<a href="https://github.com/Hamza2738">
+<img src="https://img.shields.io/badge/GitHub-Hamza2738-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/najjar-hamza-30a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Najjar_Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://learn.microsoft.com/en-us/users/hamzanajjar-273/">
-  <img src="https://img.shields.io/badge/Microsoft_Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Learn-Hamza_Najjar-258FFA?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </a>
 
 <a href="https://www.nvidia.com/en-us/account/najjarhamza/">
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Hamza2738">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA-NajjarHamza-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+# 📂 GitHub Projects
 
-### 💡 *Building. Learning. Innovating.*
+<p align="center">
 
-⭐ **Feel free to explore my repositories and projects.**
+<a href="https://github.com/Hamza2738/Ohara_Archives">
+<img src="https://img.shields.io/badge/🏛️_Ohara_Archives-Museum_Project-181717?style=for-the-badge"/>
+</a>
 
-</div>
+</p>
+
+---
+
+# 🤝 Let's Build Something
+
+I'm interested in **software engineering, FinTech, cybersecurity, networking and innovative digital solutions**.
+
+<p align="center">
+
+### 💻 Build • 🔐 Secure • 🚀 Deploy • 🤖 Innovate
+
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
