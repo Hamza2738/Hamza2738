@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Hamza Najjar**
 
-### 🎓 FinTech Engineering Student @ ESPRIT | 💻 Full-Stack Developer | 🔐 Cybersecurity Enthusiast
+### 🎓 FinTech Engineering Student at ESPRIT | 💻 Full-Stack Developer | 🔐 Cybersecurity Enthusiast
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Hamza2738&label=Profile%20Views&color=0e75b6&style=flat" />
