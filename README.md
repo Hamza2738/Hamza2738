@@ -69,7 +69,7 @@
 ## 🔌 APIs & Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,swagger,vscode,idea,eclipse,maven" />
+  <img src="https://skillicons.dev/icons?i=postman,vscode,idea,eclipse,maven" />
 </p>
 
 ---
