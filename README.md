@@ -37,7 +37,7 @@
 ## 🌐 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,angular,react,vue,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,angular,react,vue,bootstrap" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,symfony,flask,django,laravel" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,symfony,flask" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ## ☁️ DevOps • Cloud • Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,gitlab,jenkins,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,gitlab" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 🔌 APIs & Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,vscode,idea,eclipse,maven" />
+  <img src="https://skillicons.dev/icons?i=postman,vscode,idea,maven" />
 </p>
 
 ---
