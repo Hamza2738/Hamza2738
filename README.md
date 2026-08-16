@@ -92,38 +92,6 @@
 
 ---
 
-# 📌 Featured Projects
-
-### 🏦 Banking Access Management Platform
-
-> Secure internal platform for managing access requests to banking resources.
-
-**Technologies**
-
-`Spring Boot` `HTML` `CSS` `JavaScript` `MySQL` `Docker`
-
-**Integrations**
-
-🔐 IP-based Access Control
-📍 Interactive Maps
-🤖 Face Recognition
-📧 Automatic Email Notifications
-
----
-
-### 🏛️ Ohara Archives
-
-> Web platform dedicated to the management of museum visits and reservations.
-
-**Technologies**
-
-`PHP` `MySQL` `HTML` `CSS` `JavaScript` `MVC`
-
-🔗 **Repository:**
-https://github.com/Hamza2738/Ohara_Archives
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
