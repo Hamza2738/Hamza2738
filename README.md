@@ -27,6 +27,8 @@
 
 ## 💻 Programming Languages
 
+<div align="center">
+
 <table>
 <tr>
 
@@ -88,6 +90,246 @@
 
 </tr>
 </table>
+
+</div>
+
+---
+
+## 🌐 Frontend Development
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="55">
+<br><b>HTML5</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="55">
+<br><b>CSS3</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://angular.dev/">
+<img src="https://skillicons.dev/icons?i=angular" width="55">
+<br><b>Angular</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="55">
+<br><b>React</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://vuejs.org/">
+<img src="https://skillicons.dev/icons?i=vue" width="55">
+<br><b>Vue.js</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://getbootstrap.com/">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55">
+<br><b>Bootstrap</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## ⚙️ Backend Development
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://spring.io/projects/spring-boot">
+<img src="https://skillicons.dev/icons?i=spring" width="55">
+<br><b>Spring Boot</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55">
+<br><b>Node.js</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" width="55">
+<br><b>Express.js</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://symfony.com/">
+<img src="https://skillicons.dev/icons?i=symfony" width="55">
+<br><b>Symfony</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://flask.palletsprojects.com/">
+<img src="https://skillicons.dev/icons?i=flask" width="55">
+<br><b>Flask</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🗄️ Databases
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="55">
+<br><b>MySQL</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgres" width="55">
+<br><b>PostgreSQL</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55">
+<br><b>MongoDB</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.oracle.com/database/">
+<img src="https://skillicons.dev/icons?i=oracle" width="55">
+<br><b>Oracle</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## ☁️ DevOps • Cloud • Infrastructure
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" width="55">
+<br><b>Docker</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.linux.org/">
+<img src="https://skillicons.dev/icons?i=linux" width="55">
+<br><b>Linux</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="55">
+<br><b>Git</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="55">
+<br><b>GitHub</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://about.gitlab.com/">
+<img src="https://skillicons.dev/icons?i=gitlab" width="55">
+<br><b>GitLab</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔌 APIs & Development Tools
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://www.postman.com/">
+<img src="https://skillicons.dev/icons?i=postman" width="55">
+<br><b>Postman</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="55">
+<br><b>VS Code</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.jetbrains.com/idea/">
+<img src="https://skillicons.dev/icons?i=idea" width="55">
+<br><b>IntelliJ IDEA</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://maven.apache.org/">
+<img src="https://skillicons.dev/icons?i=maven" width="55">
+<br><b>Maven</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
