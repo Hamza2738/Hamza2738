@@ -230,7 +230,10 @@
 
 <td align="center">
 <a href="https://www.oracle.com/database/">
-<img src="https://skillicons.dev/icons?i=oracle" width="55">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
+     width="55"
+     height="55"
+     alt="Oracle">
 <br><b>Oracle</b>
 </a>
 </td>
