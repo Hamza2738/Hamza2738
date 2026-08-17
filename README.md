@@ -23,6 +23,7 @@
 🔧 I enjoy transforming ideas into **functional and professional software solutions**.
 
 ---
+
 # 🛠️ Technology Stack
 
 ## 💻 Programming Languages
@@ -343,6 +344,94 @@
 
 ---
 
+## 🧰 Tools & Development Environment
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<a href="https://www.apachefriends.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"
+     width="55"
+     height="55"
+     alt="XAMPP">
+<br><b>XAMPP</b>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://gluonhq.com/products/scene-builder/">
+<img src="https://gluonhq.com/products/scene-builder/wp-content/uploads/sites/4/2021/03/SceneBuilder.png"
+     width="55"
+     height="55"
+     alt="Scene Builder">
+<br><b>Scene Builder</b>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.mikroe.com/mikroc-pic">
+<img src="https://www.mikroe.com/img/products/v5/mikroc-pic/logo.png"
+     width="55"
+     height="55"
+     alt="mikroProg Suite for PIC">
+<br><b>mikroProg Suite</b>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.arduino.cc/en/software">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+     width="55"
+     height="55"
+     alt="Arduino IDE">
+<br><b>Arduino IDE</b>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<a href="https://www.flutterflow.io/">
+<img src="https://avatars.githubusercontent.com/u/56710639?s=200&v=4"
+     width="55"
+     height="55"
+     alt="FlutterFlow">
+<br><b>FlutterFlow</b>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.netacad.com/courses/packet-tracer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg"
+     width="55"
+     height="55"
+     alt="Cisco Packet Tracer">
+<br><b>Packet Tracer</b>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.wireshark.org/">
+<img src="https://www.wireshark.org/assets/img/wireshark-icon.svg"
+     width="55"
+     height="55"
+     alt="Wireshark">
+<br><b>Wireshark</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
 # 🚀 What I'm Working On
 
 <div align="center">
@@ -360,7 +449,6 @@
 </div>
 
 ---
-
 
 # 🔥 Contribution Streak
 
