@@ -313,6 +313,13 @@
 </td>
 
 <td align="center">
+<a href="https://www.codeblocks.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" width="55">
+<br><b>Code::Blocks</b>
+</a>
+</td>
+
+<td align="center">
 <a href="https://www.jetbrains.com/idea/">
 <img src="https://skillicons.dev/icons?i=idea" width="55">
 <br><b>IntelliJ IDEA</b>
