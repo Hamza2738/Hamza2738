@@ -298,35 +298,35 @@
 <table>
 <tr>
 
-<td align="center" width="110">
+<td align="center" width="120">
 <a href="https://www.postman.com/">
 <img src="https://skillicons.dev/icons?i=postman" width="55" height="55">
 <br><b>Postman</b>
 </a>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="120">
 <a href="https://code.visualstudio.com/">
 <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55">
 <br><b>VS Code</b>
 </a>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="120">
 <a href="https://www.codeblocks.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeblocks/codeblocks-original.svg" width="55" height="55">
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Codeblocks_logo.png" width="55" height="55">
 <br><b>Code::Blocks</b>
 </a>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="120">
 <a href="https://www.jetbrains.com/idea/">
 <img src="https://skillicons.dev/icons?i=idea" width="55" height="55">
 <br><b>IntelliJ IDEA</b>
 </a>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="120">
 <a href="https://maven.apache.org/">
 <img src="https://skillicons.dev/icons?i=maven" width="55" height="55">
 <br><b>Maven</b>
