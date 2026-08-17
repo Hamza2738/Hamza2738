@@ -29,54 +29,7 @@
 ## 💻 Programming Languages
 
 <p align="center">
-
-<a href="https://www.java.com/">
-  <img src="https://skillicons.dev/icons?i=java" width="55"/>
-  <br><b>Java</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.python.org/">
-  <img src="https://skillicons.dev/icons?i=python" width="55"/>
-  <br><b>Python</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=js" width="55"/>
-  <br><b>JavaScript</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.typescriptlang.org/">
-  <img src="https://skillicons.dev/icons?i=ts" width="55"/>
-  <br><b>TypeScript</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.php.net/">
-  <img src="https://skillicons.dev/icons?i=php" width="55"/>
-  <br><b>PHP</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.cppreference.com/w/c">
-  <img src="https://skillicons.dev/icons?i=c" width="55"/>
-  <br><b>C</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://isocpp.org/">
-  <img src="https://skillicons.dev/icons?i=cpp" width="55"/>
-  <br><b>C++</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-  <img src="https://skillicons.dev/icons?i=cs" width="55"/>
-  <br><b>C#</b>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c,cpp,cs" />
 </p>
 
 ---
@@ -84,42 +37,7 @@
 ## 🌐 Frontend Development
 
 <p align="center">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html" width="55"/>
-  <br><b>HTML5</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://skillicons.dev/icons?i=css" width="55"/>
-  <br><b>CSS3</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://angular.dev/">
-  <img src="https://skillicons.dev/icons?i=angular" width="55"/>
-  <br><b>Angular</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react" width="55"/>
-  <br><b>React</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://vuejs.org/">
-  <img src="https://skillicons.dev/icons?i=vue" width="55"/>
-  <br><b>Vue.js</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://getbootstrap.com/">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="55"/>
-  <br><b>Bootstrap</b>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=html,css,angular,react,vue,bootstrap" />
 </p>
 
 ---
@@ -127,36 +45,7 @@
 ## ⚙️ Backend Development
 
 <p align="center">
-
-<a href="https://spring.io/projects/spring-boot">
-  <img src="https://skillicons.dev/icons?i=spring" width="55"/>
-  <br><b>Spring Boot</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://nodejs.org/">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
-  <br><b>Node.js</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://expressjs.com/">
-  <img src="https://skillicons.dev/icons?i=express" width="55"/>
-  <br><b>Express.js</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://symfony.com/">
-  <img src="https://skillicons.dev/icons?i=symfony" width="55"/>
-  <br><b>Symfony</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://flask.palletsprojects.com/">
-  <img src="https://skillicons.dev/icons?i=flask" width="55"/>
-  <br><b>Flask</b>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,symfony,flask" />
 </p>
 
 ---
@@ -164,30 +53,7 @@
 ## 🗄️ Databases
 
 <p align="center">
-
-<a href="https://www.mysql.com/">
-  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-  <br><b>MySQL</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.postgresql.org/">
-  <img src="https://skillicons.dev/icons?i=postgres" width="55"/>
-  <br><b>PostgreSQL</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.mongodb.com/">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
-  <br><b>MongoDB</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.oracle.com/database/">
-  <img src="https://skillicons.dev/icons?i=oracle" width="55"/>
-  <br><b>Oracle</b>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
 </p>
 
 ---
@@ -195,36 +61,7 @@
 ## ☁️ DevOps • Cloud • Infrastructure
 
 <p align="center">
-
-<a href="https://www.docker.com/">
-  <img src="https://skillicons.dev/icons?i=docker" width="55"/>
-  <br><b>Docker</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linux.org/">
-  <img src="https://skillicons.dev/icons?i=linux" width="55"/>
-  <br><b>Linux</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git" width="55"/>
-  <br><b>Git</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
-  <br><b>GitHub</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://about.gitlab.com/">
-  <img src="https://skillicons.dev/icons?i=gitlab" width="55"/>
-  <br><b>GitLab</b>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,gitlab" />
 </p>
 
 ---
@@ -232,30 +69,7 @@
 ## 🔌 APIs & Development Tools
 
 <p align="center">
-
-<a href="https://www.postman.com/">
-  <img src="https://skillicons.dev/icons?i=postman" width="55"/>
-  <br><b>Postman</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://code.visualstudio.com/">
-  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-  <br><b>VS Code</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.jetbrains.com/idea/">
-  <img src="https://skillicons.dev/icons?i=idea" width="55"/>
-  <br><b>IntelliJ IDEA</b>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://maven.apache.org/">
-  <img src="https://skillicons.dev/icons?i=maven" width="55"/>
-  <br><b>Maven</b>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=postman,vscode,idea,maven" />
 </p>
 
 ---
