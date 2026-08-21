@@ -2,12 +2,6 @@
 
 ### 🎓 FinTech Engineering Student at ESPRIT | 💻 Full-Stack Developer | 🔐 Cybersecurity Enthusiast
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Hamza2738&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Hamza2738?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/Hamza2738?label=Stars&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
