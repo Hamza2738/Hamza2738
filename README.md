@@ -2,7 +2,6 @@
 
 ### 🎓 FinTech Engineering Student at ESPRIT | 💻 Full-Stack Developer | 🔐 Cybersecurity Enthusiast
 
----
 
 ## 🚀 About Me
 
